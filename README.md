@@ -52,9 +52,3 @@ python detect_D.py
 # 输出：生成 vis_D_TOTAL.jpg 和对应的 JSON 文件
 ```
 
-## 结果示例
-
-| 单模型检测 (S_TOTAL) | 多模型融合 (D_TOTAL) |
-| :---: | :---: |
-| *(上传 vis_S_TOTAL.jpg)* | *(上传 vis_D_TOTAL.jpg)* |
-```
