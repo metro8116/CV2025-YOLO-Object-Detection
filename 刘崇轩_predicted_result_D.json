@@ -1,0 +1,175 @@
+{
+  "image_name": "D_TOTAL.jpg",
+  "objects": [
+    {
+      "label": "People",
+      "class_id": 0,
+      "bbox": [
+        2592,
+        828,
+        2712,
+        1174
+      ]
+    },
+    {
+      "label": "Bike",
+      "class_id": 1,
+      "bbox": [
+        4033,
+        1026,
+        4431,
+        1517
+      ]
+    },
+    {
+      "label": "Bike",
+      "class_id": 1,
+      "bbox": [
+        4817,
+        1093,
+        5396,
+        1606
+      ]
+    },
+    {
+      "label": "Bike",
+      "class_id": 1,
+      "bbox": [
+        4408,
+        1067,
+        4795,
+        1477
+      ]
+    },
+    {
+      "label": "People",
+      "class_id": 0,
+      "bbox": [
+        331,
+        867,
+        414,
+        1128
+      ]
+    },
+    {
+      "label": "People",
+      "class_id": 0,
+      "bbox": [
+        2496,
+        822,
+        2607,
+        1160
+      ]
+    },
+    {
+      "label": "Bike",
+      "class_id": 1,
+      "bbox": [
+        5639,
+        1074,
+        5935,
+        1482
+      ]
+    },
+    {
+      "label": "Bike",
+      "class_id": 1,
+      "bbox": [
+        6355,
+        1063,
+        6647,
+        1582
+      ]
+    },
+    {
+      "label": "People",
+      "class_id": 0,
+      "bbox": [
+        2412,
+        826,
+        2505,
+        1134
+      ]
+    },
+    {
+      "label": "People",
+      "class_id": 0,
+      "bbox": [
+        394,
+        877,
+        489,
+        1131
+      ]
+    },
+    {
+      "label": "Bike",
+      "class_id": 1,
+      "bbox": [
+        6605,
+        1012,
+        6917,
+        1372
+      ]
+    },
+    {
+      "label": "Bike",
+      "class_id": 1,
+      "bbox": [
+        6093,
+        1062,
+        6365,
+        1565
+      ]
+    },
+    {
+      "label": "Light",
+      "class_id": 2,
+      "bbox": [
+        2287,
+        519,
+        2397,
+        1135
+      ]
+    },
+    {
+      "label": "Roadblock",
+      "class_id": 3,
+      "bbox": [
+        3702,
+        1144,
+        3830,
+        1383
+      ]
+    },
+    {
+      "label": "Roadblock",
+      "class_id": 3,
+      "bbox": [
+        3558,
+        1099,
+        3653,
+        1269
+      ]
+    },
+    {
+      "label": "Roadblock",
+      "class_id": 3,
+      "bbox": [
+        3447,
+        1054,
+        3517,
+        1188
+      ]
+    },
+    {
+      "label": "Light",
+      "class_id": 2,
+      "bbox": [
+        515,
+        690,
+        568,
+        1024
+      ]
+    }
+  ]
+}
